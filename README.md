@@ -1,4 +1,4 @@
-## 👋 Hi, I’m SyahmiSol!
+## 👋 Hi, I’m Syahmi!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Aspiring+Network+Security+Professional;Currently+Learning+C%2B%2B;Exploring+the+World+of+Technology" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 👨‍💻 About Me
 
-Hello! I’m SyahmiSol, a first-year Computer Science student at Universiti Teknologi Malaysia (UTM), pursuing a Bachelor’s Degree in Computer Science (Computer Networks and Security) with Honours.
+Hello! I’m Syahmi, a first-year Computer Science student at Universiti Teknologi Malaysia (UTM), pursuing a Bachelor’s Degree in Computer Science (Computer Networks and Security) with Honours.
 
 I’m currently building my foundation in programming and exploring the exciting world of computer networks, cybersecurity, and information technology.
 
@@ -72,12 +72,12 @@ More programming projects coming soon!
 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SyahmiSol&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyahmiSol&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Syahmi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syahmi&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SyahmiSol&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Syahmi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ────────
